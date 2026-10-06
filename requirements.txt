@@ -1,0 +1,4 @@
+botpy
+requests
+feedparser
+flask
